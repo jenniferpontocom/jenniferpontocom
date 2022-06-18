@@ -34,6 +34,7 @@ Me sinto confortável para trabalhar com Fron-End, envolvendo HTML, CSS e JavaSc
     <img align="center" alt="Jenni-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jenni-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jenni-PHP" height="30" width="40" src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
+    <img align="center" alt="Jenni-RN" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png">
   </div>
   
 </div>

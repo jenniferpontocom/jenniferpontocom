@@ -11,17 +11,6 @@ I feel comfortable using HTML, CSS and JavaScript for Front-End. For Back-End, I
 
 //
 
-### Olá, mundo. Meu nome é Jennifer Rangel! 👋 
-
-Sou brasileira, tenho 20 anos, curso Bacharelado em Ciências da Computação e trabalho na WeetHub, onde atuo como E-commerce Developer, desempenhando funções que envolvem tanto o front, quanto o Back-End. 
-
-Me sinto confortável para trabalhar com Fron-End, envolvendo HTML, CSS e JavaScript. Quanto ao Back, trabalho principalmente com PHP. Utilizo frameworks como o Bootstrap 4 e o Twig. 
-
-- 🔭 Estou trabalhando com Front e Back-end;
-- 🌱 Atualmente estou estudando React Native;
-- 📫 VOcê pode me achar em: jennifer.mrangel@gmail.com
-- 😄 Pronomes: ela/dela;
-
 <div>
   <div align="center">
     <a href="https://github.com/jenniferpontocom">

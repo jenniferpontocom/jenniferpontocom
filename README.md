@@ -5,7 +5,7 @@ I’m a twenty years old Brazilian girl who is studying for a bachelor's degree 
 I feel comfortable using HTML, CSS and JavaScript for Front-End. For Back-End, I prefer mostly PHP. I use frameworks like Bootstrap 4 and Twig. 
 
 - 🔭 I’m currently working on Front and Back-end;
-- 🌱 I’m currently learning React Native;
+- 🌱 I’m currently learning C#;
 - 📫 How to reach me: jennifer.mrangel@gmail.com
 - 😄 Pronouns: she/her;
 
